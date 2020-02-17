@@ -41,4 +41,23 @@ func main() {
 	fmt.Printf("%T \n", name)
 	fmt.Printf("%T \n", email)
 	fmt.Printf("%T \n", isCool)
+
+	/*
+		if {
+
+		}
+		else {
+
+		}
+
+		switch x {
+		case 1:
+		}
+
+		for i:=1; i<=10; i++ {
+
+		}
+
+	*/
+
 }

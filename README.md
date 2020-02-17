@@ -1,1 +1,3 @@
 # gobasics
+
+### quick go crashcourse
