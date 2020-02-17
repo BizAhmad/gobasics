@@ -1,3 +1,3 @@
 # gobasics
 
-### quick go crashcourse
+### quick go-lang crashcourse
